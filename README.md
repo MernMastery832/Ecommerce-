@@ -35,10 +35,10 @@ This project is a comprehensive tutorial for building a fully functional e-comme
 
 ![WhatsApp Image 2024-11-01 at 4 35 06 PM](https://github.com/user-attachments/assets/ed634d2f-fbd7-4110-a53b-2e2ed33d3331)
 
-##My Contributions
+## My Contributions
 Backend Development: RESTful API development, MongoDB integration, Express.js routes.
 Frontend Development: UI components, Redux for state management, backend API integration.
 Feature Implementation: Real-time chat (Socket.IO), Google Maps API for address selection, PayPal payment integration.
 Deployment: Fully deployed on Heroku, with MongoDB Atlas as the database.
-##Impact
+## Impact
 This project provides a strong foundation for understanding and implementing e-commerce solutions using the MERN stack, user authentication, and payment gateway integrations, offering developers valuable hands-on experience with modern web technologies.
