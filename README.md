@@ -35,47 +35,10 @@ This project is a comprehensive tutorial for building a fully functional e-comme
 
 ![WhatsApp Image 2024-11-01 at 4 35 06 PM](https://github.com/user-attachments/assets/ed634d2f-fbd7-4110-a53b-2e2ed33d3331)
 
-## Setup and Run Locally
-
-### Prerequisites
-
-- Node.js and MongoDB installed
-
-### Steps
-
-1. **Clone the Repository**
-   ```bash
-   git clone git@github.com:basir/amazona.git
-   cd amazona
-Setup MongoDB
-
-Local MongoDB: Set up a local MongoDB database named amazona and configure the .env file with MONGODB_URL=mongodb://localhost/amazona.
-MongoDB Atlas: Configure MONGODB_URL with your Atlas connection string.
-Run Backend
-
-bash
-Copy code
-npm install
-npm start
-Run Frontend
-
-bash
-Copy code
-cd frontend
-npm install
-npm start
-Seed Database
-
-Seed users and products by visiting:
-Seed Users
-Seed Products
-Admin Login
-
-Sign in at localhost:3000/signin using the seeded admin credentials.
-My Contributions
+##My Contributions
 Backend Development: RESTful API development, MongoDB integration, Express.js routes.
 Frontend Development: UI components, Redux for state management, backend API integration.
 Feature Implementation: Real-time chat (Socket.IO), Google Maps API for address selection, PayPal payment integration.
 Deployment: Fully deployed on Heroku, with MongoDB Atlas as the database.
-Impact
+##Impact
 This project provides a strong foundation for understanding and implementing e-commerce solutions using the MERN stack, user authentication, and payment gateway integrations, offering developers valuable hands-on experience with modern web technologies.
