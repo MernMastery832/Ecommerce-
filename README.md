@@ -13,10 +13,22 @@ This project is a comprehensive tutorial for building a fully functional e-comme
 
 ## Tech Stack
 
-- **Frontend**: HTML5, CSS3, React (with Hooks, Router, Axios), Redux (Store, Reducers, Actions)
-- **Backend**: Node.js, Express (API, Body Parser, JWT)
-- **Database**: MongoDB with Mongoose
-- **Deployment**: Heroku, MongoDB Atlas
+- **Frontend**:
+    - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
+    - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3
+    - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React (with Hooks, Router, Axios)
+    - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux (Store, Reducers, Actions)
+
+- **Backend**:
+    - ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) Node.js
+    - ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) Express (API, Body Parser, JWT)
+
+- **Database**:
+    - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB with Mongoose
+
+- **Deployment**:
+    - ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) Heroku
+    - ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB Atlas
 
 ## Key Features
 
